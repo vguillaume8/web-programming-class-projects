@@ -1,0 +1,22 @@
+{
+  "name": "web-programming-class-projects",
+  "version": "1.0.0",
+  "description": "Web Programming class projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vguillaume8/web-programming-class-projects.git"
+  },
+  "author": "\"Vinston Guillaume\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vguillaume8/web-programming-class-projects/issues"
+  },
+  "homepage": "https://github.com/vguillaume8/web-programming-class-projects#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
